@@ -1,6 +1,3 @@
-![image](https://github.com/khrisnaina06/portofolio_revou/assets/93519687/abc4a1c8-a3cf-428e-b0e6-b1cb90025005)# portofolio_revou
-
-
 **_Nama: Muhammad Khrisna_** <br/>
 
 <br/><br/>
