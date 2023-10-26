@@ -41,7 +41,7 @@
 <br/>
 
 ## **Tampilan Last feature**
-<img src="asset/last_fiture.png">
+<img src="asset/last_feature.png">
 <br/>
 
 
