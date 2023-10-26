@@ -5,7 +5,7 @@
 ## **Tampilan Welcome and result**
 <img src="asset/welcome.png">
 
-**Result**
+**Result** <br/>
 <img src="asset/result.png">
 
 <br/>
